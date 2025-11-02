@@ -39,21 +39,6 @@ Welcome to my collection of 18 Python mini-projects! These beginner-to-intermedi
 - Some projects may require additional libraries like `PyQt5`
 
 ---
-
-## 🧰 Folder Structure
-
-```
-python-projects/
-│
-├── calculator/
-│   └── calculator.py
-├── weight_converter/
-│   └── weight_converter.py
-...
-└── stopwatch/
-    └── stopwatch.py
-```
-
 ---
 
 ## 📜 License
