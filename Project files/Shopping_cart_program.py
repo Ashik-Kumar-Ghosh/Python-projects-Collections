@@ -17,13 +17,14 @@ while True:
 print("-----YOUR CART -----")
 
 for food in foods:
-   print(food, end = " ")   #end = "" horixontally align
+   print(food, end = " ")   
 
 for price in prices:
    total =+ price
 
 print()
 print(f"Your total is: ${total}")
+
 
 
 
